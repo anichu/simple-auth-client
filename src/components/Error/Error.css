@@ -1,0 +1,8 @@
+.error__container {
+	background: rgba(255, 0, 0, 0.4);
+	min-width: 400px;
+}
+
+.error__container p {
+	color: red;
+}
